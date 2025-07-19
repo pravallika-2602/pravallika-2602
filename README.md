@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @pravallika-2602
-- 👀 I’m interested in Mern stack applications and Java Development
-- 🌱 I’m currently learning Mern stack 
+- 👀 I’m interested in Mern stack applications and Java Development,and python
+- 🌱 I’m currently learning Mern stack
+- Ai enthusiatic
 - 💞️ I’m looking to collaborate on Mern stack Projects
 - 📫 How to reach me pravallikamangipudi@gmail.com
 - 😄 Pronouns: She/her
